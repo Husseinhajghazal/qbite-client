@@ -1,0 +1,179 @@
+{
+  "home": {
+    "header": {
+      "button1": "Dashboard",
+      "button2": "Start Now",
+      "navItems": {
+        "features": "Features",
+        "pricing": "Pricing",
+        "howtostart": "How To Start",
+        "whyus": "Why QBite",
+        "contactus": "Contact Us"
+      }
+    },
+    "landing": {
+      "h1FirstHalf": "Manage your restaurant",
+      "h1SecondHalf": "business so advanced",
+      "p": "a website offering the service of creating your own menu online",
+      "link": "Get started for free"
+    },
+    "participating": {
+      "p1": "Restaurants participating in",
+      "p2": "our services"
+    },
+    "features": {
+      "head": {
+        "sectionName": "Features",
+        "firstTitle": "Unleash The Power: Features That",
+        "secondTitle": "Transcend The Ordinary!",
+        "firstLine": "Unveiling The Finest Arsenal: Q-Bite Features That Elevate Your Financial",
+        "secondLine": "Game To New Heights!"
+      },
+      "1": {
+        "title": "Customizable:",
+        "desc": "Customize your menu, layout, and design to reflect your brand."
+      },
+      "2": {
+        "title": "Easy Pay & Refund:",
+        "desc": "We make payments and refunds hassle-free and convenient for our users."
+      },
+      "3": {
+        "title": "Ease of Use:",
+        "desc": "Find what you need quickly and effortlessly, making your online Qr Menu easy."
+      },
+      "4": {
+        "title": "Simple User Interface:",
+        "desc": "Experience an engaging and visually appealing design that keeps you captivated."
+      }
+    },
+    "demo": {
+      "h31": "It's a straightforward decision; simply",
+      "span": "test out the trial version",
+      "h32": "and share your thoughts with us.",
+      "button": "Start Now"
+    },
+    "pricing": {
+      "head": {
+        "sectionName": "Pricing",
+        "firstTitle": "Choose Your Plan",
+        "secondTitle": "Unlock Endless Possibilities",
+        "firstLine": "Revealing The Ultimate Value: Q-Bite Pricing Plans That Maximize Your",
+        "secondLine": "Financial Potential!"
+      },
+      "planFeatures": {
+        "1": "Interactive Menu Display",
+        "2": "Customizing your menu",
+        "3": "Full control over the foods",
+        "4": "Creating your own QR Code",
+        "5": "Categorizing dishes"
+      },
+      "cards": {
+        "1": {
+          "status": "",
+          "h4": "Basic",
+          "p": "Try out to manage you restaurant for 3 month for",
+          "span": "Free",
+          "button": "Get started"
+        },
+        "2": {
+          "status": "Popular",
+          "h4": "Free Trail",
+          "p": "Try out to manage you restaurant for 3 month for",
+          "span": "Free",
+          "button": "Get started"
+        },
+        "3": {
+          "status": "",
+          "h4": "Premium",
+          "p": "Try out to manage you restaurant for 3 month for",
+          "span": "Free",
+          "button": "Get started"
+        }
+      }
+    },
+    "contact": {
+      "head": {
+        "sectionName": "Contact Us",
+        "firstTitle": "Have Any Question ?",
+        "secondTitle": "Get In Touch",
+        "firstLine": "Unlock Seamless Communication: Contact Us Today to Elevate Your",
+        "secondLine": "Experience!"
+      },
+      "contactinformation": {
+        "h4": "Contact Information"
+      },
+      "form": {
+        "h3": "Send us a Message",
+        "input1": "Email",
+        "input2": "Subject",
+        "input3": "Message",
+        "success": "We got your Question, we'll respornse as soon as possible"
+      }
+    },
+    "map": {
+      "1": "Go To Sign Up Page",
+      "2": "Write Your Email",
+      "3": "Choose the Plan That Suits Your Needs",
+      "4": "Finally! You Have Your Online Modern Menu",
+      "button": "Create My Menu"
+    },
+    "whyus": {
+      "p": "Services we provide",
+      "h2": "Why us?",
+      "p1": "Customized Menu Creation: Tailor your menu to suit your unique requirements and preferences, giving you full control over the selection and arrangement of dishes.",
+      "p2": "QR Code Generation: Seamlessly generate QR Codes for your menu, allowing patrons to access your menu conveniently with a simple scan, enhancing accessibility and customer experience.",
+      "button": "GET STARTED NOW"
+    },
+    "footer": {
+      "h2": {
+        "1": "Welcome to your new",
+        "2": "Digital Menu",
+        "3": ", start your free trial"
+      },
+      "button": "Get Started",
+      "p": "We are a website offering the service of creating your own menu online, allowing you to add and modify food items at any time, as well as generate your personalized QR Code instantly",
+      "h3": {
+        "1": "Sections",
+        "2": "Contact Us",
+        "3": "Sponsors"
+      }
+    }
+  },
+  "signup": {
+    "link": "Help",
+    "head1": {
+      "1": "Managing your",
+      "2": "digital",
+      "3": "menu"
+    },
+    "head2": {
+      "1": "Which",
+      "2": "plan",
+      "3": "wanna choose?"
+    },
+    "firstForm": {
+      "slogan": "you're one click away",
+      "p1": "Join our community and take control",
+      "p2": "of your online menu today",
+      "button": "Create account",
+      "input1": "Email",
+      "input2": "Password",
+      "input3": "Confirm Password",
+      "TermsConfirmation": {
+        "part1": "I agree to the ",
+        "part2": "Terms & Conditions"
+      }
+    },
+    "secondForm": {
+      "slogan": "Chose any plan",
+      "p1": "Choose the best plan that suits",
+      "p2": "your restaurants needs",
+      "button": "Submit",
+      "popup": {
+        "title": "Check your email",
+        "text": "maybe you don't find in in all mails, so check spam",
+        "confirmButtonText": "ok"
+      }
+    }
+  }
+}
