@@ -47,7 +47,7 @@ const Header = () => {
       <div className="flex gap-2">
         <Link
           data-aos={i18n.language == "ar" ? "fade-right" : "fade-left"}
-          href="https://admin.q-bite.net/"
+          href="https://qbite-client-husseinhajghazals-projects.vercel.app/"
           target="_blank"
         >
           <p className="w-24 h-8 lg:w-28 lg:h-12 hidden md:flex justify-center items-center pb-1 border-[#2f834f] bg-[#2f834f] border-2 rounded-3xl text-white text-md font-semibold hover:bg-transparent hover:text-[#2f834f] duration-300">
